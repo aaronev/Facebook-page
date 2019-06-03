@@ -270,6 +270,16 @@ header .search-area ul li{
 .body{
     padding: 0;
 }
+.body div {
+  display: inline-block;
+  float: left;
+  width: 33.33%;
+  height: 110px; background: url(https://images5.alphacoders.com/473/thumb-1920-473154.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .top-icons{
     width: 100%;
     padding: 15px 0;
@@ -378,3 +388,4 @@ header .search-area ul li{
     font-size: 20px;
     margin-right: 0 15px 0 0;
 }
+.
